@@ -1,6 +1,5 @@
-# Orcish Dashboard
+# Devorc Dashboard
 
-![orcish-dashboard](https://github.com/user-attachments/assets/cb458deb-9ba3-435e-a39c-7f48095c85c8)
 
 ## Overview
 
